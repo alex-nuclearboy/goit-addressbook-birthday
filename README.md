@@ -34,7 +34,7 @@ This repository contains the Address Book Module, a Python module with classes d
 ### Installation
 
     # Clone the repository
-    git clone https://github.com/your-username/address-book-module.git
+    git clone https://github.com/alex-nuclearboy/goit-addressbook-birthday.git
 
 ### Usage
 
