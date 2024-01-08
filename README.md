@@ -18,6 +18,7 @@ This repository contains the Address Book Module, a Python module with classes d
 - *Add Entries*: Add new contact records to the address book.
 - *Search by Name*: Look up entries using the contact's name.
 - *Delete by Name*: Remove entries based on the contact's name.
+- *Pagination*: Browse entries page by page.
 
 #### Record Class:
 
@@ -25,6 +26,7 @@ This repository contains the Address Book Module, a Python module with classes d
 - *Delete Phone Numbers*: Remove specific phone numbers from a contact.
 - *Edit Phone Numbers*: Modify existing phone numbers.
 - *Find Phone Number*: Retrieve specific phone numbers associated with a contact.
+- *Days to Birthday*: Calculate the number of days until the contact's next birthday.
 
 #### Birthday Class:
 
